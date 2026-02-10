@@ -1,6 +1,6 @@
 {
-    "name": "nethive_neo",
-    "short_name": "nethive_neo",
+    "name": "sistema_pos_demo",
+    "short_name": "sistema_pos_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
